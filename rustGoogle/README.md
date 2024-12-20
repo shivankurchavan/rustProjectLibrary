@@ -35,13 +35,15 @@ so we will assign `mut` to the varialbe to specify that it is mutable.
 
 # Built-in Types and Literal Values
 
-|                           |  **Types**                                | **Literals**                   |
-|---------------------------|----------------------------------------------------------------------------|
+
+|                           | **Types**                                | **Literals**                   |
+|---------------------------|-------------------------------------------|---------------------------------|
 | Signed integers           | `i8`, `i16`, `i32`, `i64`, `i128`, `isize`| `-10`, `0`, `1_000`, `123_i64` |
 | Unsigned integers         | `u8`, `u16`, `u32`, `u64`, `u128`, `usize`| `0`, `123`, `10_u16`           |
-| Floating point numbers    | `f32`, `f64`                              |`3.14`, `-10.0e20`, `2_f32`     |
-| Unicode scalar values     | `char`                                    |`'a'`, `'α'`, `'∞'`             |
-| Booleans                  | `bool`                                    |`true`, `false`                 |
+| Floating point numbers    | `f32`, `f64`                              | `3.14`, `-10.0e20`, `2_f32`    |
+| Unicode scalar values     | `char`                                    | `'a'`, `'α'`, `'∞'`            |
+| Booleans                  | `bool`                                    | `true`, `false`                |
+
 
 
 
