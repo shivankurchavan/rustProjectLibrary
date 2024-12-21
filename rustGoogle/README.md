@@ -60,3 +60,13 @@ so we will assign `mut` to the varialbe to specify that it is mutable.
 `i` - signed interger 
 
 `u` - unsigned integer 
+
+
+# Arithmatic operation
+
+sab same
++
+-
+*
+/
+^
