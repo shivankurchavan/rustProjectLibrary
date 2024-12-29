@@ -70,3 +70,5 @@ sab same
 *
 /
 ^
+
+# Type inference
